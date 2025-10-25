@@ -18,4 +18,11 @@ Currently I am working on documents for Moonii and am planning on making a very 
 
 Please do not ask me for new updates or admin. Only tell me if there is a bug in the issues tab.
 
+# Credits
+
+*Microsoft* - Github (My way of hosting everything.)
+*Roblox* - Old Roblox (The inspiration for this and me wanting to revive the old blocky era.)
+*Scratch* - Hosting (The way I host all of the games you publish.)
+*Turbowarp* - Extensions & Packager (Allowed me to make the Moonii Launcher app.)
+
 # Thanks for reading!
